@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=kalama kernel with KernelSU by Yufz
+kernel.string=S23-Knox-Disabled-Kernel
 do.devicecheck=1
 do.modules=0
 do.systemless=1
